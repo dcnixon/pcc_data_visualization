@@ -1,0 +1,12 @@
+2021-02-02-10:19:43	2.0	friday	Attempting to download from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.0_friday.geojson
+2021-02-02-10:19:43	2.0	friday	404 File Not Found - check that the timeframe and magnitude is valid
+2021-02-02-10:19:43	significant	hour	Attempting to download from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.geojson
+2021-02-02-10:19:43	significant	hour	No earthquake data for magnitude 'significant' and timeframe 'hour', try a lower magnitude or longer timeframe
+2021-02-02-10:19:43	2.5	hour	Attempting to download from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.geojson
+2021-02-02-10:19:43	2.5	hour	Download successful, saving data as eq_data/2.5_hour_20210202.json
+2021-02-02-10:19:43	4.5	hour	Attempting to download from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.geojson
+2021-02-02-10:19:43	4.5	hour	No earthquake data for magnitude '4.5' and timeframe 'hour', try a lower magnitude or longer timeframe
+2021-02-02-10:19:43	4.5	day	Attempting to download from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson
+2021-02-02-10:19:43	4.5	day	Download successful, saving data as eq_data/4.5_day_20210202.json
+2021-02-02-10:19:43	1.0	month	Feed data accessed from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson
+2021-02-02-10:19:43	1.0	month	Data feed load successful
